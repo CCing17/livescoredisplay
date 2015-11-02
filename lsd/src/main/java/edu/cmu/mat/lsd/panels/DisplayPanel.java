@@ -35,7 +35,7 @@ import edu.cmu.mat.scores.Block;
 import edu.cmu.mat.scores.PlaybackEvent;
 import edu.cmu.mat.scores.Score;
 import edu.cmu.mat.scores.System;
-
+//hi this is Stella
 public class DisplayPanel implements Panel, HcmpListener {
 	private Model _model;
 	private Score _score;
